@@ -8,6 +8,7 @@ The Spotify Dashboard is an interactive data visualization that analyzes Spotify
 - Stacked Bar Chart: Monthly Listeners by Album
 - Clustered Column Chart: Total Hours Streamed by Album and Platform Type
 - Area Chart: Average Skip Rate by Album
+- Slicer- Used parameter field function to filter the report dynamically based on Album, Artist, Genres and Released Year.
 
 ### Dataset: <a href="https://github.com/kiru37/My-Portfolio/blob/main/Spotfy_Data.xlsx"> Spotify Dataset.xlsx </a>
 ### Dashboard: <a href="https://github.com/kiru37/My-Portfolio/blob/main/Spotify%20Dashboard.pbix"> Spotify Dashboard.pbix </a>
